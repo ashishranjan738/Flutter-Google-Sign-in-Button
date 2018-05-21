@@ -26,5 +26,3 @@ Widget button(title, uri, [ color = const Color.fromRGBO(68, 68, 76, .8) ]) {
     ),
   );
 }
-
-// var x = button( 'assets/google_sign_in.png', Color.fromRGBO(68, 68, 76, .8) );
